@@ -29,7 +29,7 @@ Por Cirilo Arnaldo Palomino Urbano
 * Reference image:
   ![Tag name][Reference]
 
-  [Reference]: tps://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg
+  [Reference]: https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg
 
 
 ## 5 - Bold and Italic
